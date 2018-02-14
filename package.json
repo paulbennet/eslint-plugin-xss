@@ -1,14 +1,14 @@
 {
   "name": "eslint-plugin-xss",
-  "version": "0.1.9",
-  "description": "Validates XSS related issues of mixing HTML and non-HTML content in variables.",
+  "version": "0.0.1",
+  "description": "Validates XSS related issues of mixing HTML and non-HTML content in variables. Forked from https://github.com/Rantanen/eslint-plugin-xss .",
   "keywords": [
     "eslint",
     "eslintplugin",
     "eslint-plugin"
   ],
-  "author": "Mikko Rantanen",
-  "repository": "https://github.com/Rantanen/eslint-plugin-xss",
+  "author": "Paul Bennet",
+  "repository": "https://github.com/paulbennet/eslint-plugin-xss",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha tests --recursive",
